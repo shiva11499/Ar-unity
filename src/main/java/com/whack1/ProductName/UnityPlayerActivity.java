@@ -57,7 +57,6 @@ public class UnityPlayerActivity extends Activity
         super.onResume();
         mUnityPlayer.resume();
     }
-
     @Override protected void onStart()
     {
         super.onStart();
